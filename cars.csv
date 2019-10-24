@@ -1,0 +1,201 @@
+location,make,model,km,status,bodytype,transmission,year,cylinders,colour ,carproof,fuel,price
+Toronto,Infiniti,q60 sport tech,"56,863",Used,Coupe,Automatic,2015,6,black,yes,Regular Unleaded,35900
+York Region,Chevrolet,Silverado,"20,886",Used,Truck,Automatic,2015,6,silver,yes,Flex Fuel Capability,"26,883"
+York Region,Honda ,Civic,60,New,Sedan,Automatic,2017,4,grey,n/a,Regular Unleaded,"29,177"
+York Region,Chevrolet,Colorado,"26,095",Used,Truck,Automatic,2016,4,white,yes,Regular Unleaded,"25,888"
+York Region,Mazda ,MAZDA3 ,"49,193",Used,Hatchback,Automatic,2015,4,white,yes,Regular Unleaded,"15,985"
+York Region,Mercedes-Benz,C-Class,"15,959",Used,Sedan,Manual,2015,4,grey,yes,Regular Unleaded,"37,998"
+York Region,Toyota,Scion TC,"34,686",Used,Hatchback,Automatic,2014,4,red,yes,Regular Unleaded,"17,588"
+York Region,Cadillac,ATS ,61500,Used,Sedan,Automatic,2014,4,grey,no,Regular Unleaded,"19,880"
+Peel Region,Mercedes-Benz,GL-Class,140567,Used,SUV,Automatic,2011,6,black,yes,Diesel Fuel,"27,495"
+York Region,Nissan ,Murano ,241017,Used,SUV,Automatic,2003,6,other,no,Regular Unleaded,"2,800"
+York Region,Mercedes-Benz,300 Series,"188,300",Used,Sedan,Automatic,1986,6,other,no,Regular Unleaded,"4,000"
+York Region,Dodge,Grand Caravan ,"220,000",Used,Minivan,Automatic,2009,6,red,no,Flex Fuel Capability,"5,900"
+York Region,Cadillac,ATS ,63397,Used,Sedan,Automatic,2015,4,grey,yes,Regular Unleaded,"21,888"
+Toronto,Hyundai ,Elantra,13500,Used,Sedan,Automatic,2016,4,silver,yes,Regular Unleaded,"17,995"
+North York,Range Rover,Evoque,102182,Used,SUV,Automatic,2013,4,black,yes,Regular Unleaded,"31,887"
+North York,Chrysler ,Town & Country ,58591,Used,Minivan,Automatic,2014,6,other,yes,Regular Unleaded,"22,998"
+York Region,Hyundai ,Santa Fe,12148,Used,SUV,Automatic,2017,4,black,yes,Regular Unleaded,"28,995"
+York Region,Cadillac,Escalade ,5530,Used,SUV,Automatic,2016,8,black,yes,Regular Unleaded,"83,888"
+York Region,Chevrolet,Silverado ,"64,889",Used,Truck,Automatic,2016,8,silver,no,Diesel Fuel,"58,800"
+York Region,Acura,TLX,12746,Used,Sedan,Automatic,2016,4,other,no,Regular Unleaded,"34,898"
+York Region,Nissan ,Armada ,10,New,SUV,Automatic,2017,8,black,n/a,Regular Unleaded,"58,448"
+York Region,Fiat,500 Abarth,"29,500",Used,Coupe,Manual,2013,4,black,no,Regular Unleaded,"21,500"
+York Region,Mercedes-Benz,ML350,150000,Used,SUV,Automatic,2008,6,white,no,Regular Unleaded,"10,800"
+York Region,Cadillac,SRX ,41000,Used,SUV,Automatic,2015,6,white,no,Regular Unleaded,"32,229"
+York Region,Mazda ,MAZDA3 ,175000,Used,Sedan,Automatic,2007,4,white,no,Regular Unleaded,"1,950"
+York Region,Ford,Focus ,14991,Used,Hatchback,Manual,2016,4,blue,no,Regular Unleaded,"43,000"
+York Region,Volkswagen ,City Jetta,"228,799",Used,Sedan,Automatic,2000,6,red,no,Regular Unleaded,"2,000"
+York Region,Honda ,Accord ,98950,Used,Sedan,Automatic,2007,6,black,no,Regular Unleaded,"8,990"
+York Region,Honda ,Civic ,276629,Used,Sedan,Automatic,2003,4,silver,no,Regular Unleaded,"1,000"
+York Region,Ford,Mustang ,61000,Used,Coupe,Manual,2003,8,red,no,Regular Unleaded,"17,500"
+York Region,GMC ,Envoy ,"226,500",Used,SUV,Automatic,2005,6,white,no,Regular Unleaded,"2,900"
+York Region,Toyota,Camry ,54000,Used,Sedan,Automatic,2014,4,other,no,Regular Unleaded,"19,000"
+York Region,Lincoln,MKX ,81400,Used,SUV,Automatic,2012,6,white,no,Regular Unleaded,"19,999"
+York Region,Audi,A4 ,230000,Used,Sedan,Manual,2002,4,black,no,Regular Unleaded,"2,500"
+York Region,Mercedes-Benz,E-Class,27500,Used,Sedan,Automatic,2009,6,black,no,Regular Unleaded,"18,500"
+York Region,Volkswagen ,GTI ,54000,Used,Hatchback,Automatic,2011,4,black,no,Regular Unleaded,"18,995"
+York Region,GMC ,Sierra ,109450,Used,Truck,Automatic,2001,8,red,no,Regular Unleaded,"2,000"
+York Region,Porsche ,Panamera,"155,000",Used,Sedan,Automatic,2010,8,black,no,Regular Unleaded,"41,000"
+York Region,Ford,F-150,40500,Used,Truck,Automatic,2015,6,black,no,Regular Unleaded,"42,900"
+York Region,Chevrolet,Silverado ,236000,Used,Truck,Automatic,2001,6,silver,no,Regular Unleaded,"5,000"
+York Region,Ford,F-150 ,167000,Used,Truck,Automatic,2011,8,silver,no,Regular Unleaded,"41,999"
+York Region,Toyota,Matrix ,187000,Used,Wagon,Manual,2006,4,silver,no,Regular Unleaded,"3,900"
+York Region,Lexus ,IS ,"129,000",Used,Sedan,Automatic,2006,6,silver,no,Regular Unleaded,"12,000"
+York Region,Nissan ,370Z ,112056,Used,Coupe,Manual,2009,6,white,no,Regular Unleaded,"18,700"
+Simcoe County,Honda ,Odyssey ,414500,Used,Minivan,Automatic,2006,6,other,no,Regular Unleaded,"2,500"
+Peel Region,Nissan ,Pathfinder ,14321,Used,SUV,CVT,2017,6,grey,yes,Regular Unleaded,"44,295"
+Toronto,Mercedes-Benz,C-Class,99000,Used,Coupe,Automatic,2013,4,black,no,Regular Unleaded,"19,880"
+Peel Region,Mazda ,MAZDA3 ,46000,Used,Hatchback,Automatic,2014,4,red,no,Regular Unleaded,"14,888"
+Toronto,Ford,Escape ,"30,313",Used,SUV,Automatic,2014,4,other,yes,Regular Unleaded,"22,822"
+North York,Audi,A8 ,68184,Used,Sedan,Automatic,2014,6,black,yes,Diesel Fuel,"50,998"
+York Region,Honda ,Civic ,50,New,Sedan,Automatic,2017,4,grey,n/a,Regular Unleaded,"25,577"
+Peel Region,Kia,Sorento ,10953,Used,SUV,Automatic,2017,4,silver,yes,Regular Unleaded,"25,498"
+Toronto,Hyundai ,Tucson ,0,New,SUV,Automatic,2017,4,black,n/a,Regular Unleaded,"30,259"
+Durham Region,Toyota,Sienna ,71132,Used,Minivan,Automatic,2014,6,silver,yes,Regular Unleaded,"23,995"
+North York,Ram ,1500 ,4,New,Truck,Automatic,2017,8,red,n/a,Regular Unleaded,"33,598"
+Peel Region,Acura,TL ,108356,Used,Sedan,Automatic,2009,6,other,no,Regular Unleaded,"12,995"
+York Region,Honda ,Prelude ,192000,Used,Coupe,Automatic,2001,4,blue,no,Regular Unleaded,"1,300"
+Peel Region,Ford,Fiesta ,39122,Used,Sedan,Automatic,2012,4,blue,no,Regular Unleaded,"8,988"
+Toronto,Ford,Escape ,44000,Used,SUV,Automatic,2015,4,black,yes,Regular Unleaded,"22,900"
+York Region,Toyota,Camry ,18528,Used,Sedan,Automatic,2015,4,other,no,Regular Unleaded,"22,000"
+Toronto,Nissan ,Sentra ,117000,Used,Sedan,Automatic,2009,4,red,yes,Regular Unleaded,"5,995"
+York Region,Audi,S4 ,119000,Used,Sedan,Automatic,2013,6,blue,no,Regular Unleaded,"23,000"
+York Region,Hyundai ,Tucson ,95460,Used,SUV,Automatic,2009,4,blue,no,Regular Unleaded,"4,799"
+Durham Region,Jeep,Patriot,253000,Used,SUV,Automatic,2009,4,black,no,Regular Unleaded,"4,500"
+Peel Region,Jeep,Wrangler ,10,New,SUV,Automatic,2017,6,other,n/a,Regular Unleaded,"50,550"
+York Region,Dodge,Durango ,20413,Used,SUV,Automatic,2017,8,black,yes,Regular Unleaded,"43,824"
+Toronto,Audi,Q7 ,39000,Used,SUV,Automatic,2017,6,white,no,Regular Unleaded,"75,880"
+Simcoe County,Acura,TL ,45600,Used,Sedan,Automatic,2013,6,black,no,Regular Unleaded,"23,996"
+Toronto,Mercedes-Benz,GLA-Class,53718,Used,Wagon,Automatic,2015,4,black,yes,Regular Unleaded,"47,888"
+Peel Region,Chevrolet,Impala ,27710,Used,Sedan,Automatic,2017,4,grey,yes,Regular Unleaded,"23,988"
+York Region,Chevrolet,Cruze ,42130,Used,Sedan,Automatic,2015,5,grey,yes,Regular Unleaded,"14,880"
+York Region,BMW ,X5 ,87620,Used,SUV,Automatic,2015,6,white,yes,Premium Unleaded,"51,900"
+Peel Region,Porsche ,Macan ,33342,Used,SUV,Automatic,2016,6,black,yes,Premium Unleaded,"62,998"
+Toronto,Ford,Mustang ,72340,Used,Coupe,Automatic,2010,6,other,no,Regular Unleaded,"16,990"
+Toronto,Chevrolet,Corvette ,25,New,Coupe,Automatic,2017,8,black,n/a,Regular Unleaded,"97,411"
+York Region,Ford,Mustang ,250,New,Coupe,Manual,2017,8,white,n/a,Premium Unleaded,"69,888"
+Simcoe County,BMW ,3 Series,221382,Used,Coupe,Manual,1989,4,black,no,Regular Unleaded,"2,000"
+York Region,Nissan ,Rogue ,32600,Used,SUV,Automatic,2016,4,black,yes,Regular Unleaded,"26,602"
+Peel Region,Dodge,Challenger ,"10,193",Used,Coupe,Automatic,2015,8,white,yes,Regular Unleaded,"64,888"
+Toronto,Honda ,HR-V,"38,786",Used,SUV,CVT,2016,4,white,yes,Regular Unleaded,"25,897"
+York Region,MINI Cooper,Clubman,79895,Used,Wagon,Automatic,2014,4,white,no,Regular Unleaded,"14,490"
+Toronto,Toyota,Yaris ,"180,880",Used,Sedan,Automatic,2009,4,black,no,Regular Unleaded,"4,500"
+Toronto,Honda ,Civic ,76200,Used,Sedan,Manual,2012,4,grey,yes,Regular Unleaded,"9,995"
+Toronto,BMW ,X5 ,78128,Used,SUV,Automatic,2014,6,blue,yes,Regular Unleaded,"45,888"
+Toronto,Toyota,Corolla ,0,New,Sedan,CVT,2017,4,black,n/a,Regular Unleaded,"20,705"
+Toronto,BMW ,X6,131000,Used,SUV,Automatic,2011,6,black,yes,Regular Unleaded,"28,888"
+Simcoe County,Chrysler ,200,19712,Used,Sedan,Automatic,2016,6,blue,no,Regular Unleaded,"22,800"
+Toronto,Ram ,1500 ,0,New,Truck,Automatic,2017,8,grey,n/a,Regular Unleaded,"52,510"
+Toronto,Dodge,Grand Caravan,0,New,Minivan,Automatic,2017,6,red,n/a,Regular Unleaded,"38,899"
+Peel Region,Ram ,1500 ,0,New,Truck,Automatic,2017,6,white,n/a,Regular Unleaded,"35,840"
+Durham Region,Ram ,1500 ,25,New,Truck,Automatic,2017,8,white,n/a,Regular Unleaded,"36,998"
+Peel Region,Ford,Explorer ,150,New,SUV,Automatic,2017,6,red,n/a,Regular Unleaded,"45,947"
+Toronto,Ram ,1500 ,0,New,Truck,Automatic,2017,6,black,n/a,Diesel Fuel,"51,860"
+York Region,Dodge,Grand Caravan,0,New,Minivan,Automatic,2017,6,other,n/a,Regular Unleaded,"21,827"
+York Region,Dodge,Grand Caravan,0,New,Minivan,Automatic,2017,6,silver,n/a,Regular Unleaded,"23,767"
+Durham Region,Dodge,Grand Caravan,0,New,Minivan,Automatic,2017,6,black,n/a,Flex Fuel Capability,"36,997"
+Durham Region,Chevrolet,Cruze ,0,New,Sedan,Automatic,2017,4,blue,n/a,Diesel Fuel,"26,343"
+Durham Region,Chevrolet,Trax ,0,New,SUV,Automatic,2017,4,grey,n/a,Regular Unleaded,"24,330"
+Simcoe County,Ford,F-350,10,New,Truck,Automatic,2017,8,black,n/a,Diesel Fuel,"80,423"
+Peel Region,Honda ,Civic ,145000,Used,Sedan,Automatic,2007,4,grey,no,Regular Unleaded,"1,999"
+Hamilton Region,Scion,xD,153605,Used,Hatchback,Automatic,2011,4,blue,no,Regular Unleaded,"6,499"
+Peel Region,BMW ,3 Series ,240126,Used,Sedan,Automatic,2001,6,black,no,Regular Unleaded,"3,100"
+Halton Region,Jeep,Cherokee ,500,Used,SUV,Automatic,2017,6,black,no,Regular Unleaded,"31,388"
+Halton Region,Jeep,Cherokee ,500,Used,SUV,Automatic,2017,4,grey,no,Regular Unleaded,"28,690"
+York Region,Ford,F-150 ,"28,605",Used,Truck,Automatic,2016,8,white,no,Regular Unleaded,"48,500"
+Niagara Region,Pontiac,Montana ,270000,Used,Minivan,Automatic,2001,6,red,no,Regular Unleaded,"1,800"
+Peel Region,Honda ,Civic ,226000,Used,Sedan,Automatic,2004,4,blue,no,Regular Unleaded,"2,500"
+Toronto,Land Rover,Range Rover,99000,Used,SUV,Automatic,2013,8,grey,no,Premium Unleaded,"34,887"
+Peel Region,Mazda ,CX-5,84062,Used,SUV,Automatic,2016,4,grey,no,Regular Unleaded,"24,995"
+Hamilton Region,Mazda ,MAZDA3 ,95000,Used,Hatchback,Automatic,2010,4,grey,no,Regular Unleaded,"9,000"
+Peel Region,Mercedes-Benz,ML-Class,193000,Used,SUV,Automatic,2006,6,silver,no,Regular Unleaded,"11,000"
+Peel Region,Honda ,Accord ,265600,Used,Sedan,Automatic,2002,4,black,no,Regular Unleaded,800
+York Region,Chevrolet,Cruze ,117205,Used,Sedan,Automatic,2012,4,black,no,Regular Unleaded,"9,225"
+Halton Region,Volkswagen ,Jetta ,113000,Used,Sedan,Automatic,2011,5,white,no,Regular Unleaded,"11,500"
+Halton Region,Acura,TL ,265862,Used,Sedan,Automatic,2005,6,grey,no,Regular Unleaded,"3,000"
+Durham Region,Hyundai ,Elantra ,45000,Used,Sedan,Automatic,2013,4,silver,no,Regular Unleaded,"10,799"
+Halton Region,Volkswagen ,Rabbit ,112500,Used,Hatchback,Automatic,2008,5,grey,no,Regular Unleaded,"5,500"
+Hamilton Region,Chevrolet,Avalanche ,346000,Used,Truck,Automatic,2008,8,black,no,Regular Unleaded,"12,000"
+Peel Region,Subaru,Forester ,35653,Used,SUV,Automatic,2015,4,black,no,Regular Unleaded,"24,795"
+Halton Region,Honda ,Civic ,132145,Used,Sedan,Automatic,2010,4,grey,no,Regular Unleaded,"7,999"
+Toronto,Dodge,Journey ,57740,Used,SUV,Automatic,2015,4,black,yes,Regular Unleaded,"16,885"
+Peel Region,Ram ,1500 ,0,New,Truck,Automatic,2017,8,white,n/a,Regular Unleaded,"48,975"
+Peel Region,Mazda ,Tribute ,200031,Used,SUV,Automatic,2010,4,black,yes,Regular Unleaded,"5,995"
+Toronto,Chevrolet,Colorado ,10,New,Truck,Automatic,2018,6,black,n/a,Regular Unleaded,"44,031"
+Halton Region,Honda ,Civic ,56550,Used,Coupe,Manual,2013,4,black,yes,Regular Unleaded,"11,900"
+Peel Region,Ford,Focus ,0,New,Sedan,Automatic,2017,4,silver,n/a,Regular Unleaded,"22,067"
+Toronto,Ford,Focus ,134000,Used,Hatchback,Manual,2013,4,grey,no,Regular Unleaded,"5,800"
+Toronto,Nissan ,Murano ,111800,Used,SUV,Automatic,2009,6,other,no,Regular Unleaded,"2,000"
+Toronto,Honda ,CR-V,325405,Used,SUV,Automatic,2000,4,blue,no,Regular Unleaded,950
+Toronto,Lexus ,RX 350,223683,Used,SUV,Automatic,2009,6,white,no,Regular Unleaded,"15,555"
+York Region,Honda ,Odyssey ,223683,Used,Minivan,Automatic,2003,6,other,no,Regular Unleaded,"2,450"
+Simcoe County,GMC ,Canyon ,0,New,Truck,Automatic,2018,6,grey,n/a,Regular Unleaded,"41,354"
+Simcoe County,Buick,Encore ,0,New,SUV,Automatic,2017,4,black,n/a,Regular Unleaded,"27,889"
+Simcoe County,GMC ,Sierra ,0,New,Truck,Automatic,2018,8,red,n/a,Regular Unleaded,"56,059"
+Simcoe County,Chevrolet,Cruze ,0,New,Sedan,Automatic,2017,4,silver,n/a,Regular Unleaded,"20,844"
+Simcoe County,Chevrolet,Traverse ,0,New,SUV,Automatic,2018,6,silver,n/a,Regular Unleaded,"51,349"
+Toronto,Honda ,Civic ,60000,Used,Sedan,Automatic,2009,4,grey,no,Regular Unleaded,"8,800"
+Simcoe County,Dodge,Grand Caravan,176059,Used,Minivan,Automatic,2011,6,blue,no,Regular Unleaded,"8,999"
+Simcoe County,Jeep,Patriot,4025,Used,SUV,Automatic,2017,4,other,no,Regular Unleaded,"24,977"
+Simcoe County,Jeep,Liberty,163861,Used,SUV,Automatic,2010,6,silver,no,Regular Unleaded,"7,999"
+Toronto,Toyota,Corolla ,250000,Used,Sedan,Automatic,1999,4,other,no,Regular Unleaded,"1,400"
+Toronto,BMW ,3 Series,"199,872",Used,Sedan,Automatic,2007,6,blue,no,Regular Unleaded,"5,900"
+Toronto,Honda ,Civic ,"205,000",Used,Sedan,Automatic,2001,4,blue,no,Regular Unleaded,"2,250"
+York Region,Toyota,Matrix ,92000,Used,Hatchback,Automatic,2010,4,grey,no,Regular Unleaded,"9,200"
+Niagara Region,Chevrolet,Silverado ,0,New,Truck,Automatic,2017,8,white,n/a,Regular Unleaded,"46,575"
+Toronto,Chevrolet,Cobalt ,150000,Used,Sedan,Automatic,2006,4,grey,no,Regular Unleaded,"3,000"
+Niagara Region,Chevrolet,Silverado ,0,New,Truck,Automatic,2017,8,blue,n/a,Regular Unleaded,"51,950"
+Toronto,Ford,Focus ,160000,Used,Sedan,Automatic,2012,4,black,no,Regular Unleaded,"5,500"
+Niagara Region,Chevrolet,Silverado ,120,New,Truck,Automatic,2017,8,red,n/a,Regular Unleaded,"38,570"
+Niagara Region,Chevrolet,Silverado ,182,New,Truck,Automatic,2017,8,black,n/a,Regular Unleaded,"44,780"
+Toronto,Ram ,1500,0,New,Truck,Automatic,2017,8,other,n/a,Regular Unleaded,40044
+Peel Region,Jeep,Grand Cherokee,25,New,SUV,Automatic,2018,6,grey,n/a,Regular Unleaded,50474
+Toronto,Mazda ,MAZDA3 ,100,New,Sedan,Automatic,2018,4,black,n/a,Regular Unleaded,30045
+Halton Region,Kia,Rio5,0,New,Hatchback,Automatic,2018,4,black,n/a,Regular Unleaded,25074
+Hamilton Region,Honda ,HR-V,74,New,SUV,CVT,2017,4,black,n/a,Regular Unleaded,32160
+Simcoe County,Chevrolet,Silverado,0,New,Truck,Automatic,2018,8,white,n/a,Regular Unleaded,49365
+Peel Region,Cadillac,CTS,10,New,Sedan,Automatic,2017,4,black,n/a,Regular Unleaded,60105
+Peel Region,Buick,Enclave,10,New,SUV,Automatic,2017,6,black,n/a,Regular Unleaded,57750
+Peel Region,GMC ,Terrain,11,New,SUV,Automatic,2018,4,white,n/a,Regular Unleaded,37260
+Peel Region,Chevrolet,Silverado,10,New,Truck,Automatic,2018,8,white,n/a,Diesel Fuel,77113
+Peel Region,Chevrolet,Colorado,15,New,Truck,Automatic,2018,6,white,n/a,Regular Unleaded,44955
+Peel Region,GMC ,Acadia,15,New,SUV,Automatic,2018,6,black,n/a,Regular Unleaded,52900
+Peel Region,Chevrolet,Cruze ,15,New,Sedan,Automatic,2018,4,black,n/a,Regular Unleaded,25765
+Peel Region,Chevrolet,Silverado,15,New,Truck,Automatic,2018,8,black,n/a,Regular Unleaded,54610
+Peel Region,Chevrolet,Colorado,11,New,Truck,Automatic,2018,6,grey,n/a,Regular Unleaded,38730
+Halton Region,Jeep,Compass,0,New,SUV,Automatic,2018,4,silver,n/a,Regular Unleaded,38095
+Toronto,Ford,Fiesta ,0,New,Hatchback,Manual,2017,4,grey,n/a,Regular Unleaded,29848
+Halton Region,Chevrolet,Equinox,8,New,SUV,Automatic,2018,4,white,n/a,Regular Unleaded,43838
+Halton Region,GMC ,Canyon ,8,New,Truck,Automatic,2018,6,black,n/a,Regular Unleaded,41633
+Peel Region,Mazda ,CX-9,0,New,SUV,Automatic,2018,4,black,n/a,Regular Unleaded,43821
+Peel Region,Mercedes-Benz,C300,90,New,Sedan,Automatic,2018,4,white,n/a,Regular Unleaded,65420
+Peel Region,Mercedes-Benz,C300,90,New,Sedan,Automatic,2017,4,grey,n/a,Regular Unleaded,65159
+Simcoe County,BMW ,M2,9,New,Coupe,Automatic,2018,6,white,n/a,Premium Unleaded,77919
+Niagara Region,Ford,Focus ,3,New,Hatchback,Automatic,2018,4,white,n/a,Regular Unleaded,26938
+Simcoe County,Ford,Focus ,90,New,Hatchback,Automatic,2018,4,grey,n/a,Regular Unleaded,23906
+Simcoe County,Ford,F-250,90,New,Truck,Automatic,2018,8,white,n/a,Regular Unleaded,46465
+Halton Region,Lincoln,MKX ,0,New,SUV,Automatic,2017,6,black,n/a,Premium Unleaded,63050
+Toronto,Nissan ,Versa,100,New,Hatchback,Automatic,2017,4,red,n/a,Regular Unleaded,20083
+York Region,Cadillac,ATS ,4,New,Coupe,Automatic,2018,4,black,n/a,Premium Unleaded,51815
+Toronto,Jeep,Wrangler ,0,New,SUV,Manual,2017,6,white,n/a,Regular Unleaded,31435
+Peel Region,Ford,Edge,0,New,SUV,Automatic,2018,6,black,n/a,Regular Unleaded,43495
+Toronto,Ram ,1500,0,New,Truck,Automatic,2018,8,blue,n/a,Regular Unleaded,35779
+Simcoe County,Toyota,Highlander,50,New,SUV,Automatic,2017,6,black,n/a,Regular Unleaded,43313
+York Region,Toyota,RAV4,0,New,SUV,Automatic,2018,4,white,n/a,Regular Unleaded,40555
+Hamilton Region,Dodge,Grand Caravan,25,New,Minivan,Automatic,2017,6,red,n/a,Regular Unleaded,29999
+York Region,Honda ,Civic,15,New,Sedan,Manual,2017,4,black,n/a,Regular Unleaded,30212
+Niagara Region,Kia,Sedona,0,New,Minivan,Automatic,2018,6,black,n/a,Regular Unleaded,35735
+Halton Region,Cadillac,Escalade ,35,New,SUV,Automatic,2017,8,black,n/a,Regular Unleaded,85782
+York Region,Honda ,Civic,15,New,Coupe,Manual,2017,4,grey,n/a,Regular Unleaded,30612
+Halton Region,Toyota,RAV4,5,New,SUV,Automatic,2018,4,white,n/a,Regular Unleaded,29490
+Durham Region,Honda ,Civic,5,New,Sedan,CVT,2018,4,grey,n/a,Regular Unleaded,26154
+Durham Region,Honda ,CRV,5,New,SUV,CVT,2018,4,black,n/a,Regular Unleaded,40654
+Toronto,Mazda ,Mazda6,0,New,Sedan,Automatic,2017,4,red,n/a,Regular Unleaded,28390
+Toronto,Mazda ,CX5,100,New,SUV,Automatic,2017,4,red,n/a,Regular Unleaded,38745
+Toronto,Honda ,Civic,0,New,Sedan,CVT,2018,4,black,n/a,Regular Unleaded,22614
+Toronto,Lexus ,ES,35,New,Sedan,Automatic,2018,6,silver,n/a,Regular Unleaded,48760
+Durham Region,Chevrolet,Equinox,0,New,SUV,Automatic,2018,4,black,n/a,Regular Unleaded,27483
+Toronto,Nissan ,Altima,40,New,Sedan,Automatic,2017,4,white,n/a,Regular Unleaded,30288
+Halton Region,Chevrolet,Malibu,12,New,Sedan,Automatic,2018,4,blue,n/a,Regular Unleaded,35067
+Toronto,Ford,F-250,25,New,Truck,Automatic,2017,8,black,n/a,Diesel Fuel,56218
